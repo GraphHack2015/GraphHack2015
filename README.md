@@ -22,6 +22,12 @@
 
 [Github repository](https://github.com/nicolewhite/neo4j-complaints)
 
+### Your own Twitter network
+
+![](img/twitter_datamodel.png)
+
+[Sign in with Twitter to import your network to Neo4j](http://network.graphdemos.com/)
+
 ### Other sites
 
 We don't have Neo4j import scripts or graph exports for these, but we think they might be interesting to explore:
@@ -39,6 +45,7 @@ We don't have Neo4j import scripts or graph exports for these, but we think they
 ### Install Neo4j
 
 * [Download Neo4j](http://neo4j.com/download/)
+* [Neo4j with Docker](http://neo4j.com/developer/docker/)
 
 ### Graph Story
 
