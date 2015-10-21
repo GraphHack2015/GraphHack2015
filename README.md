@@ -90,3 +90,4 @@ We don't have Neo4j import scripts or graph exports for these, but we think they
 ### More
 
 * [Awesome Neo4j](https://github.com/GraphGeeks/awesome-neo4j) - curated list of Neo4j resources
+* [OSCON AMS Hackathon Datasets & Links](https://gist.github.com/jexp/f13682f9fa402ee9826b) 
