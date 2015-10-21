@@ -70,10 +70,13 @@ We don't have Neo4j import scripts or graph exports for these, but we think they
 
 #### LOAD CSV
 
+* [Neo4j CSV Import Guide](http://neo4j.com/developer/guide-import-csv)
+* [Neo4j CSV Import Northwind Example](http://neo4j.com/developer/guide-importing-data-and-etl/)
+* [Neo4j CSV Import Web Tool](http://neo4j-csv-import.herokuapp.com)
+
 * [Load CSVs With Success](http://jexp.de/blog/2014/10/load-cvs-with-success/)
 * [LOAD CSV Quickly And Successfully](http://jexp.de/blog/2014/06/load-csv-into-neo4j-quickly-and-successfully/)
 * [Neo4j Cypher Avoiding the Eager](http://www.markhneedham.com/blog/2014/10/23/neo4j-cypher-avoiding-the-eager/)
-* [Neo4j CSV Import Web Tool](http://neo4j-csv-import.herokuapp.com)
 
 ### GraphGist
 
