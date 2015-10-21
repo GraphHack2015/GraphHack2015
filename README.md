@@ -32,11 +32,13 @@
 
 We don't have Neo4j import scripts or graph exports for these, but we think they might be interesting to explore:
 
+* [Meetup Data with Neo4j](http://markhneedham.com/blog/?s=meetup) [Quickly Import Meetup Event Attendees w/ PHP](https://github.com/ikwattro/meetup2neo)
 * [US Government's open data](http://www.data.gov/)
 * [NASA's Data Portal](https://data.nasa.gov/)
 * [US City Data](http://us-city.census.okfn.org/)
 * [US Spending data](https://www.usaspending.gov/Pages/default.aspx)
 * [Deep and interesting datasets for computational journalism](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
+* [DBPedia](https://github.com/mirkonasato/graphipedia) (We have the dataset locally, find Michael@Neo)
 
 ## Resources
 
