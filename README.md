@@ -56,8 +56,6 @@ We don't have Neo4j import scripts or graph exports for these, but we think they
 * http://dist.neo4j.org/neo4j-community_macos_2_3_0.dmg
 * http://dist.neo4j.org/neo4j-community_windows-x64_2_3_0.exe
 * http://dist.neo4j.org/neo4j-community_windows_2_3_0.exe
-* http://dist.neo4j.org/neo4j-enterprise-2.3.0-unix.tar.gz
-* http://dist.neo4j.org/neo4j-enterprise-2.3.0-windows.zip
 
 ### Graph Story
 
